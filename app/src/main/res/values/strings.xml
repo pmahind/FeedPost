@@ -1,0 +1,63 @@
+<resources>
+    <!-- Application Name-->
+    <string name="app_name">Feed Posts</string>
+
+    <!-- Dialog Strings -->
+    <string name="register_dia_msg">REGISTER</string>
+    <string name="cancel_dia_msg">Cancel</string>
+
+    <string name="logout_message">Are you sure you want to logout ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update_post">Update Post</string>
+    <string name="update">Update</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="want_to_delete_post">Do you want to delete post</string>
+    <string name="post_deleted_success">Post deleted successfully</string>
+
+    <!-- Snackbar -->
+    <string name="registration_failed">Registration Failed : </string>
+    <string name="creating_posting">Uploading Post&#8230;</string>
+    <string name="post_create_success">Post Created Successfully</string>
+    <string name="post_failed_to_create">Post Failed to Create</string>
+    <string name="post_cancelled">Post Cancelled</string>
+    <string name="post_update_success">Post update successfully</string>
+    <string name="authenticating">Authenticating user..</string>
+    <string name="loading_post">Loading Posts..</string>
+
+    <!-- Text Validation Strings -->
+    <string name="please_use_email">Please use email to register</string>
+    <string name="please_enter_email">Please enter email address</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="password_short">Password too short !!!</string>
+    <string name="registering">Registering..</string>
+    <string name="register_success">Register Successfully !!!</string>
+    <string name="sign_in_caps">LOG IN</string>
+    <string name="please_use_email_sign_in">Please use email to sign in</string>
+    <string name="post_title_desc_not_empty">Post Title or Description cannot be empty</string>
+    <string name="title_not_empty">Post Title should not be empty</string>
+    <string name="desc_not_empty">Post Description should not be empty</string>
+
+    <string name="updated_at">Updated at :</string>
+
+    <!-- Firebase Database Strings -->
+    <string name="Users">Users</string>
+    <string name="post">Post</string>
+    <string name="name">name</string>
+
+
+    <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="logout">Logout</string>
+    <string name="end">end</string>
+
+    <!-- POJO Class Strings -->
+    <string name="PostTitle">PostTitle</string>
+    <string name="PostDescription">PostDescription</string>
+    <string name="UserId">UserId</string>
+    <string name="CreatedDate">CreatedDate</string>
+    <string name="PostCreatedBy">PostCreatedBy</string>
+    <string name="UpdatedDate">UpdatedDate</string>
+    <string name="timeStamp">timeStamp</string>
+
+
+</resources>
